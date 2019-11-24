@@ -1,32 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a1808f9b-5e72-4adc-9139-734eba56d1e9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/assets/Amy_Klobuchar.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/Andrew_Yang.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/Bernie_Sanders.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/Cory_Booker.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/Elizabeth_Warren.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/Joe_Biden.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/Kamala_Harris.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/Pete_Buttigieg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/Tom_Steyer.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/assets/Tulsi_Gabbard.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Body.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CandidateCard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CandidateContainer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Home.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/index.css" beforeDir="false" />
-    </list>
+    <list default="true" id="a1808f9b-5e72-4adc-9139-734eba56d1e9" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574518278986</updated>
-      <workItem from="1574518282714" duration="9848000" />
+      <workItem from="1574518282714" duration="9986000" />
     </task>
     <servers />
   </component>
